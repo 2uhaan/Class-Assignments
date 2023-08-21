@@ -32,6 +32,6 @@ Irnntuetsms</br>
 
 https://github.com/2uhaan/Class-Assignments/blob/main/PlayFair.py
 ## Output
-Enter Plain Text - bubble
-Enter Key - hello
-CipherText: gqdvdhaw
+Enter Plain Text - bubble</br>
+Enter Key - hello</br>
+CipherText: gqdvdhaw</br>
