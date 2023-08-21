@@ -27,3 +27,11 @@ https://github.com/2uhaan/Class-Assignments/blob/main/Rail%20Fence.py
 Enter a Plain Text : Instruments</br> 
 Enter a Key Value for Level : 3</br>
 Irnntuetsms</br>
+
+## EX - 04 Play Fair
+
+https://github.com/2uhaan/Class-Assignments/blob/main/PlayFair.py
+## Output
+Enter Plain Text - bubble
+Enter Key - hello
+CipherText: gqdvdhaw
